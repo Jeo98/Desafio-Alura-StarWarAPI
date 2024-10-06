@@ -1,0 +1,2 @@
+desafío: crear una aplicación que consulte la API de Star Wars para obtener información sobre las películas.
+Deberás crear un menú que permita al usuario elegir la película que quiere buscar. Luego, la aplicación deberá consultar la API y guardar los datos de la película en un archivo .json.
